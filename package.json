@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/oucifmohamed/webcrawlerhttp#readme",
   "devDependencies": {
+    "@types/jsdom": "^21.1.6",
     "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "jsdom": "^23.0.1"
   }
 }
